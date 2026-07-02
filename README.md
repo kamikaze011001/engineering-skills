@@ -6,7 +6,7 @@ it adds all of the skills below at once.
 ## Install
 
 ```
-/plugin marketplace add kamikaze011001/compounding-lessons-plugin
+/plugin marketplace add kamikaze011001/engineering-skills
 /plugin install engineering-skills@kamikaze-skills
 ```
 
