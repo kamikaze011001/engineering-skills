@@ -10,11 +10,9 @@ Cloned in spirit from compound engineering's `/ce-compound`.
 ## Install
 
 ```
-/plugin marketplace add sonanh/compounding-lessons-plugin
+/plugin marketplace add kamikaze011001/compounding-lessons-plugin
 /plugin install compounding-lessons@sonanh-skills
 ```
-
-(Replace `sonanh/compounding-lessons-plugin` with your actual GitHub `owner/repo`.)
 
 The skill then appears as `compounding-lessons` in the skill list on any machine or project.
 
