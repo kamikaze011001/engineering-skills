@@ -1,6 +1,6 @@
 {
   "name": "compounding-lessons",
-  "description": "Capture reusable, non-obvious code-review findings as durable searchable lessons so the same class of mistake is prevented next time instead of re-reviewed.",
+  "description": "Engineering-quality skills bundle: compounding-lessons (capture reusable code-review findings) and software-design-philosophy (Ousterhout's A Philosophy of Software Design guidance).",
   "version": "1.0.0",
   "author": {
     "name": "kamikaze011001"
@@ -10,6 +10,8 @@
     "lessons",
     "learning",
     "compound-engineering",
+    "software-design",
+    "architecture",
     "workflows"
   ],
   "license": "MIT"
