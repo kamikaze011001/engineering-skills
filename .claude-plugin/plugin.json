@@ -1,6 +1,6 @@
 {
   "name": "engineering-skills",
-  "description": "Engineering-quality skills bundle: compounding-lessons (capture reusable code-review findings) and software-design-philosophy (Ousterhout's A Philosophy of Software Design guidance).",
+  "description": "Engineering-quality skills bundle: compounding-lessons, software-design-philosophy, system-design, ddia-systems, and release-it — code-review learning, software design, distributed systems, data systems, and production resilience.",
   "version": "1.0.0",
   "author": {
     "name": "kamikaze011001"
@@ -12,6 +12,9 @@
     "compound-engineering",
     "software-design",
     "architecture",
+    "distributed-systems",
+    "system-design",
+    "resilience",
     "workflows"
   ],
   "license": "MIT"

@@ -16,6 +16,9 @@ it adds all of the skills below at once.
 |-------|--------------|
 | `compounding-lessons` | Capture reusable, non-obvious code-review findings as durable searchable lessons so the same mistake is prevented, not re-reviewed. |
 | `software-design-philosophy` | Design guidance based on John Ousterhout's *A Philosophy of Software Design* — complexity, module decomposition, API design, naming, comments, error handling. |
+| `system-design` | Design scalable distributed systems — load balancing, caching, database scaling, message queues, capacity estimation, common designs (URL shortener, feed, chat). |
+| `ddia-systems` | Data-systems design — storage engines, replication, partitioning, transactions, consistency models, batch/stream processing (grounded in *Designing Data-Intensive Applications*). |
+| `release-it` | Production resilience — circuit breakers, bulkheads, timeouts, retries, chaos engineering, zero-downtime deploys, observability. |
 
 ---
 
@@ -75,8 +78,21 @@ decomposition, refactoring, complexity analysis, and naming/commenting decisions
 Vendored from [`luoling8192/software-design-philosophy-skill`](https://github.com/luoling8192/software-design-philosophy-skill)
 (MIT). Original license retained at `skills/software-design-philosophy/LICENSE`.
 
+---
+
+## `system-design`, `ddia-systems`, `release-it`
+
+Three companion skills for distributed-systems work — architecture (`system-design`),
+data systems (`ddia-systems`), and production resilience (`release-it`). Each ships a
+`references/` folder with deep-dive notes and cross-references the other two.
+
+Vendored from [`wondelai/skills`](https://github.com/wondelai/skills) (MIT). Original
+license retained at `skills/<name>/LICENSE`.
+
 ## License
 
 - `compounding-lessons` — MIT.
 - `software-design-philosophy` — MIT, Copyright (c) 2026 luoling8192 (see
   `skills/software-design-philosophy/LICENSE`).
+- `system-design`, `ddia-systems`, `release-it` — MIT, Copyright (c) 2025 Wondel.ai
+  sp. z o.o. (see each `skills/<name>/LICENSE`).
