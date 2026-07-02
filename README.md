@@ -1,4 +1,4 @@
-# compounding-lessons
+# engineering-skills
 
 A Claude Code plugin bundling skills for higher-quality engineering work. Installing
 it adds all of the skills below at once.
@@ -7,7 +7,7 @@ it adds all of the skills below at once.
 
 ```
 /plugin marketplace add kamikaze011001/compounding-lessons-plugin
-/plugin install compounding-lessons@kamikaze-skills
+/plugin install engineering-skills@kamikaze-skills
 ```
 
 ## Skills in this plugin

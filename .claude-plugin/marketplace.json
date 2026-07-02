@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "compounding-lessons",
+      "name": "engineering-skills",
       "source": "./",
-      "description": "Capture reusable code-review lessons so mistakes are prevented, not re-reviewed."
+      "description": "Engineering-quality skills: compounding-lessons + software-design-philosophy."
     }
   ]
 }
