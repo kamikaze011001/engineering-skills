@@ -1,0 +1,16 @@
+{
+  "name": "compounding-lessons",
+  "description": "Capture reusable, non-obvious code-review findings as durable searchable lessons so the same class of mistake is prevented next time instead of re-reviewed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sonanh"
+  },
+  "keywords": [
+    "code-review",
+    "lessons",
+    "learning",
+    "compound-engineering",
+    "workflows"
+  ],
+  "license": "MIT"
+}

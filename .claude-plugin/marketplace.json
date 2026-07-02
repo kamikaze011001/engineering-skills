@@ -1,0 +1,13 @@
+{
+  "name": "sonanh-skills",
+  "owner": {
+    "name": "sonanh"
+  },
+  "plugins": [
+    {
+      "name": "compounding-lessons",
+      "source": "./",
+      "description": "Capture reusable code-review lessons so mistakes are prevented, not re-reviewed."
+    }
+  ]
+}
