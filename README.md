@@ -11,7 +11,7 @@ Cloned in spirit from compound engineering's `/ce-compound`.
 
 ```
 /plugin marketplace add kamikaze011001/compounding-lessons-plugin
-/plugin install compounding-lessons@sonanh-skills
+/plugin install compounding-lessons@kamikaze-skills
 ```
 
 The skill then appears as `compounding-lessons` in the skill list on any machine or project.
